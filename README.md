@@ -1,8 +1,9 @@
 - 👋 Hi, I'm Tim Winkelmann @winktim
 - 👀 I'm interested in Code, Cars and Game Art
-- 🌱 I'm currently learning Game Art
+- 🌱 I'm currently learning Tech Art
 - 💼 I'm also working for my own Company [naito.one](https://naito.one)
 - 📫 Reach me by email at twinkelmann**at**naito.one
+- 💸 You can support me by buying my creations on [Gumroad](https://twinkelmann.gumroad.com/)
 
 <!---
 winktim/winktim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
